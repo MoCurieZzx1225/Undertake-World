@@ -1,0 +1,15 @@
+{
+  "_fv": 85,
+  "_type": "specialentity",
+  "definition": {
+    "entityType": "Boat",
+    "name": "Waterfall Damp Wood Boat",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Undertaletool"
+      }
+    ],
+    "entityTexture": "waterfall_damp_wood_boat",
+    "itemTexture": "waterfall_damp_wood_boat"
+  }
+}

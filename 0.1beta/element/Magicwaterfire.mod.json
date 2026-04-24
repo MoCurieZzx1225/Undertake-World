@@ -1,0 +1,27 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "undertale",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Waterfallcrystal"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.5,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Waterfallcrystal"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Waterfallcrystalingot"
+    },
+    "name": "magicwaterfire",
+    "namespace": "mod"
+  }
+}

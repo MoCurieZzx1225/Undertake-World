@@ -1,0 +1,30 @@
+{
+  "_fv": 85,
+  "_type": "structure",
+  "definition": {
+    "structure": "waterfall_corridor",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 30,
+    "separation": 20,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Waterfall"
+      }
+    ],
+    "terrainAdaptation": "beard_thin",
+    "generationStep": "SURFACE_STRUCTURES",
+    "surfaceDetectionType": "MOTION_BLOCKING",
+    "useStartHeight": true,
+    "startHeightProviderType": "TRAPEZOID",
+    "startHeightMin": 28,
+    "startHeightMax": 60,
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

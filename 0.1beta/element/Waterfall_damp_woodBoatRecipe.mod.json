@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "boat",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Waterfall_damp_woodBoat"
+    },
+    "name": "waterfall_damp_wood_boat_recipe",
+    "namespace": "mod"
+  }
+}

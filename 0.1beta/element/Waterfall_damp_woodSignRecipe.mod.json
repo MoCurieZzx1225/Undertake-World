@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "wooden_sign",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Waterfall_damp_woodSign"
+    },
+    "name": "waterfall_damp_wood_sign_recipe",
+    "namespace": "mod"
+  }
+}

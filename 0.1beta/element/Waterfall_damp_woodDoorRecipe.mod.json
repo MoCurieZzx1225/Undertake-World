@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "wooden_door",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": "CUSTOM:Waterfall_damp_woodPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Waterfall_damp_woodDoor"
+    },
+    "name": "waterfall_damp_wood_door_recipe",
+    "namespace": "mod"
+  }
+}

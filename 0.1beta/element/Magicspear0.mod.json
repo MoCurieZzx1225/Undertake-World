@@ -1,0 +1,98 @@
+{
+  "_fv": 85,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "magic_spear",
+    "customModelName": "Ranged item",
+    "guiTexture": "magic_spear",
+    "customProperties": {},
+    "states": [],
+    "animations": [],
+    "name": "Magicspear",
+    "rarity": "COMMON",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Undertaletool"
+      }
+    ],
+    "stackSize": 64,
+    "enchantability": 10,
+    "useDuration": 72000,
+    "toolType": 1.0,
+    "damageCount": 351,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "isPiglinCurrency": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 8.0,
+    "attackSpeed": 1.2,
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "openGUIOnRightClick": {
+      "fixedValue": false
+    },
+    "inventorySize": 9,
+    "inventoryStackSize": 99,
+    "enableRanged": true,
+    "shootConstantly": false,
+    "rangedItemChargesPower": true,
+    "projectile": {
+      "value": "CUSTOM:Magicspearfly"
+    },
+    "projectileDisableAmmoCheck": true,
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "bow",
+    "isMusicDisc": false,
+    "musicDiscMusic": {
+      "value": ""
+    },
+    "musicDiscDescription": "",
+    "musicDiscLengthInTicks": 100,
+    "musicDiscAnalogOutput": 0,
+    "providedBannerPatterns": [],
+    "attributeModifiers": [
+      {
+        "equipmentSlot": "hand",
+        "attribute": {
+          "value": "SAFE_FALL_DISTANCE"
+        },
+        "amount": 9.0,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "equipmentSlot": "mainhand",
+        "attribute": {
+          "value": "ENTITY_REACH"
+        },
+        "amount": 1.5,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "equipmentSlot": "hand",
+        "attribute": {
+          "value": "FALL_DAMAGE_MULTIPLIER"
+        },
+        "amount": -0.5,
+        "operation": "ADD_VALUE"
+      }
+    ]
+  }
+}

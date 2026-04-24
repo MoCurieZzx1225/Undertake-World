@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallredcrystalingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Waterfall_red_crystalBlock"
+    },
+    "name": "waterfall_red_crystal_ore_block_recipe",
+    "namespace": "mod"
+  }
+}

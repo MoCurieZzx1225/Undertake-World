@@ -1,0 +1,30 @@
+{
+  "_fv": 85,
+  "_type": "structure",
+  "definition": {
+    "structure": "ebott_mountain",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 100,
+    "separation": 40,
+    "restrictionBiomes": [
+      {
+        "value": "#minecraft:is_forest"
+      }
+    ],
+    "terrainAdaptation": "beard_thin",
+    "generationStep": "SURFACE_STRUCTURES",
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "useStartHeight": false,
+    "startHeightProviderType": "UNIFORM",
+    "startHeightMin": 0,
+    "startHeightMax": 128,
+    "size": 1,
+    "maxDistanceFromCenter": 80,
+    "jigsawPools": []
+  }
+}

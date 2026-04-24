@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "hanging_sign",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:StrippedWaterfall_damp_woodLog"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CHAIN"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CHAIN"
+      },
+      {
+        "value": "CUSTOM:StrippedWaterfall_damp_woodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWaterfall_damp_woodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWaterfall_damp_woodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWaterfall_damp_woodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWaterfall_damp_woodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWaterfall_damp_woodLog"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Waterfall_damp_woodHangingSign"
+    },
+    "name": "waterfall_damp_wood_hanging_sign_recipe",
+    "namespace": "mod"
+  }
+}

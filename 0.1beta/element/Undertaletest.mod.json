@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "地域传说",
+    "achievementDescription": "很久很久以前......",
+    "achievementIcon": {
+      "value": "Items.HEART_POTTERY_SHERD"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": true,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"258\" y=\"51\"><next><block type=\"dimension_entered\"><field name=\"dimension\">CUSTOM:Undertale</field></block></next></block></xml>"
+  }
+}

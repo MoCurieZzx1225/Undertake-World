@@ -1,0 +1,23 @@
+{
+  "_fv": 85,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:Magicspear0"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "item.trident.throw"
+    },
+    "igniteFire": false,
+    "disableGravity": false,
+    "disableDiscarding": false,
+    "power": 0.6,
+    "damage": 6.0,
+    "knockback": 1,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "modelWidth": 0.6,
+    "modelHeight": 0.6
+  }
+}

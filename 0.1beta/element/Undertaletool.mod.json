@@ -1,0 +1,11 @@
+{
+  "_fv": 85,
+  "_type": "tab",
+  "definition": {
+    "name": "Undertaletool",
+    "icon": {
+      "value": "Items.HEART_POTTERY_SHERD"
+    },
+    "showSearch": false
+  }
+}

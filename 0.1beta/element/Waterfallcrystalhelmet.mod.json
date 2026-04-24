@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "undertale",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Waterfallcrystalingot"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Waterfallcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallcrystalingot"
+      },
+      {
+        "value": "CUSTOM:Waterfallcrystalingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Waterfallcrystalingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Waterfallcrystala.helmet"
+    },
+    "name": "waterfall_crystal_helmet",
+    "namespace": "mod"
+  }
+}

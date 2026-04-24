@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "undertale",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      },
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      },
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      },
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      },
+      {
+        "value": "CUSTOM:Waterfallwatermagic.bucket"
+      },
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      },
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      },
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      },
+      {
+        "value": "CUSTOM:Magicwatermedicinebottle"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Magicwater"
+    },
+    "name": "magicwaterrecipe",
+    "namespace": "mod"
+  }
+}

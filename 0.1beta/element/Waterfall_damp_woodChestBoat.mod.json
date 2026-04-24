@@ -1,0 +1,15 @@
+{
+  "_fv": 85,
+  "_type": "specialentity",
+  "definition": {
+    "entityType": "ChestBoat",
+    "name": "Waterfall Damp Wood Boat with Chest",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Undertaletool"
+      }
+    ],
+    "entityTexture": "waterfall_damp_wood_chest_boat",
+    "itemTexture": "waterfall_damp_wood_chest_boat"
+  }
+}
